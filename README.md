@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrmelhay. Xayrulla Melibayev
+- 👋 Hi, I’m @mrmelhay. Hayrulla Melibaev
 - 👀 I’m interested in DevOPS, Backend, FullStack, PHP, Laravel
 - 🌱 I’m currently learning C++
 - 📫 How to reach me @mrmelhay
